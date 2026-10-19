@@ -1,0 +1,513 @@
+[
+ {
+  "id": "E01",
+  "query": "From what date do the bans on prohibited AI practices apply?",
+  "gold": [
+   "2 February 2025"
+  ]
+ },
+ {
+  "id": "E02",
+  "query": "When is a general-purpose AI model presumed to have systemic risk?",
+  "gold": [
+   "presumed to have high impact capabilities"
+  ]
+ },
+ {
+  "id": "E03",
+  "query": "When does a deployer become the provider of a high-risk AI system?",
+  "gold": [
+   "modify the intended purpose"
+  ]
+ },
+ {
+  "id": "E04",
+  "query": "Which biometric categorisation activities are not covered by the prohibition?",
+  "gold": [
+   "does not cover any labelling or filtering"
+  ]
+ },
+ {
+  "id": "E05",
+  "query": "In which case may a decision with adverse legal effects not be taken based solely on a biometric identification output?",
+  "gold": [
+   "No decision that produces an adverse legal effect"
+  ]
+ },
+ {
+  "id": "E06",
+  "query": "Can AI be used to manipulate people's behaviour without them noticing?",
+  "gold": [
+   "subliminal techniques"
+  ]
+ },
+ {
+  "id": "E07",
+  "query": "Can an AI system listed in Annex III be exempted from being high-risk?",
+  "gold": [
+   "shall not be considered to be high-risk where it does not pose a significant risk"
+  ]
+ },
+ {
+  "id": "E08",
+  "query": "Can an employer use AI to detect the emotions of its staff at work?",
+  "gold": [
+   "medical or safety reasons"
+  ]
+ },
+ {
+  "id": "E09",
+  "query": "Can a company harvest photos of people from social media to build a face-matching database?",
+  "gold": [
+   "untargeted scraping of facial images"
+  ]
+ },
+ {
+  "id": "E10",
+  "query": "What is the maximum fine for using a banned AI system?",
+  "gold": [
+   "35 000 000"
+  ]
+ },
+ {
+  "id": "E11",
+  "query": "Do the AI Act rules apply to open-source AI systems?",
+  "gold": [
+   "free and open-source licences, unless"
+  ]
+ },
+ {
+  "id": "E12",
+  "query": "When are police allowed to use live facial recognition in public places?",
+  "gold": [
+   "targeted search for specific victims"
+  ]
+ },
+ {
+  "id": "E13",
+  "query": "Does the AI Act apply to AI used only by the army?",
+  "gold": [
+   "exclusively for military, defence or national security purposes"
+  ]
+ },
+ {
+  "id": "E14",
+  "query": "Is every AI system listed in Annex III automatically high-risk?",
+  "gold": [
+   "shall not be considered to be high-risk where it does not pose a significant risk"
+  ]
+ },
+ {
+  "id": "E15",
+  "query": "Who has to carry out a fundamental rights impact assessment before using a high-risk AI system?",
+  "gold": [
+   "bodies governed by public law, or are private entities providing public services"
+  ]
+ },
+ {
+  "id": "E16",
+  "query": "Which uses of biometric categorisation are not prohibited?",
+  "gold": [
+   "does not cover any labelling or filtering"
+  ]
+ },
+ {
+  "id": "E17",
+  "query": "Must a chatbot tell users they are talking to a machine?",
+  "gold": [
+   "interacting with an AI system"
+  ]
+ },
+ {
+  "id": "E18",
+  "query": "Are fines lower for start-ups and small companies?",
+  "gold": [
+   "whichever thereof is lower"
+  ]
+ },
+ {
+  "id": "E19",
+  "query": "Do deepfake disclosure rules apply to satirical or artistic content?",
+  "gold": [
+   "evidently artistic, creative, satirical"
+  ]
+ },
+ {
+  "id": "E20",
+  "query": "Is it allowed to use AI to predict whether a person will commit a crime?",
+  "gold": [
+   "support the human assessment of the involvement of a person"
+  ]
+ },
+ {
+  "id": "E21",
+  "query": "Can providers process sensitive data such as ethnicity to detect bias in high-risk AI?",
+  "gold": [
+   "special categories of personal data"
+  ]
+ },
+ {
+  "id": "E22",
+  "query": "Is AI used for personal non-professional purposes covered by the regulation?",
+  "gold": [
+   "purely personal non-professional activity"
+  ]
+ },
+ {
+  "id": "E23",
+  "query": "Are AI systems used to detect financial fraud considered high-risk?",
+  "gold": [
+   "detecting financial fraud"
+  ]
+ },
+ {
+  "id": "E24",
+  "query": "Is it allowed to use AI to infer someone's sexual orientation from their face?",
+  "gold": [
+   "deduce or infer their race"
+  ]
+ },
+ {
+  "id": "E25",
+  "query": "Can schools use AI to monitor the emotions of students?",
+  "gold": [
+   "medical or safety reasons"
+  ]
+ },
+ {
+  "id": "E26",
+  "query": "How much can a company be fined for giving misleading information to authorities?",
+  "gold": [
+   "7 500 000"
+  ]
+ },
+ {
+  "id": "E27",
+  "query": "Does a match from a remote biometric identification system need to be checked by a human before acting on it?",
+  "gold": [
+   "at least two natural persons"
+  ]
+ },
+ {
+  "id": "E28",
+  "query": "Is social scoring of people prohibited?",
+  "gold": [
+   "social behaviour or known, inferred or predicted"
+  ]
+ },
+ {
+  "id": "E29",
+  "query": "How quickly must a serious incident be reported if a person has died?",
+  "gold": [
+   "10 days"
+  ]
+ },
+ {
+  "id": "E30",
+  "query": "Are open-source general-purpose AI models exempt from the documentation obligations?",
+  "gold": [
+   "free and open-source licence that allows"
+  ]
+ },
+ {
+  "id": "E31",
+  "query": "What is the deadline to report a serious incident caused by a high-risk AI system?",
+  "gold": [
+   "15 days"
+  ]
+ },
+ {
+  "id": "E32",
+  "query": "What is the penalty for not complying with the prohibited AI practices?",
+  "gold": [
+   "35 000 000"
+  ]
+ },
+ {
+  "id": "E33",
+  "query": "Is an AI system that detects fraud in loan applications high-risk?",
+  "gold": [
+   "detecting financial fraud"
+  ]
+ },
+ {
+  "id": "E34",
+  "query": "Is AI used to evaluate the creditworthiness of people high-risk, and are there exceptions?",
+  "gold": [
+   "detecting financial fraud"
+  ]
+ },
+ {
+  "id": "E35",
+  "query": "Under what conditions is an Annex III AI system not considered high-risk?",
+  "gold": [
+   "shall not be considered to be high-risk where it does not pose a significant risk"
+  ]
+ },
+ {
+  "id": "E36",
+  "query": "Are emotion recognition systems allowed in the workplace for safety reasons?",
+  "gold": [
+   "medical or safety reasons"
+  ]
+ },
+ {
+  "id": "E37",
+  "query": "Do open-source general-purpose AI models with systemic risk get the open-source exemption?",
+  "gold": [
+   "free and open-source licence that allows"
+  ]
+ },
+ {
+  "id": "E38",
+  "query": "Is AI used to verify identity for unlocking a phone considered prohibited remote biometric identification?",
+  "gold": [
+   "unlocking a device"
+  ]
+ },
+ {
+  "id": "E39",
+  "query": "What exceptions allow law enforcement to use real-time biometric identification in public?",
+  "gold": [
+   "targeted search for specific victims"
+  ]
+ },
+ {
+  "id": "E40",
+  "query": "Can real-time facial recognition be used to search for missing children?",
+  "gold": [
+   "targeted search for specific victims"
+  ]
+ },
+ {
+  "id": "E41",
+  "query": "Is labelling of lawfully acquired biometric datasets prohibited?",
+  "gold": [
+   "does not cover any labelling or filtering"
+  ]
+ },
+ {
+  "id": "E42",
+  "query": "Is AI that predicts crime prohibited if it only supports a human assessment based on objective facts?",
+  "gold": [
+   "support the human assessment of the involvement of a person"
+  ]
+ },
+ {
+  "id": "E43",
+  "query": "What are providers of high-risk AI systems not allowed to do with the CE marking?",
+  "gold": [
+   "CE marking"
+  ]
+ },
+ {
+  "id": "E44",
+  "query": "Which persons are not allowed to be subjected to testing in real world conditions without consent?",
+  "gold": [
+   "informed consent"
+  ]
+ },
+ {
+  "id": "E45",
+  "query": "Which obligations apply to deployers but not to providers of high-risk AI systems?",
+  "gold": [
+   "Obligations of deployers of high-risk AI systems"
+  ]
+ },
+ {
+  "id": "E46",
+  "query": "Who is responsible when a distributor puts its own name on a high-risk AI system?",
+  "gold": [
+   "put their name or trademark on a high-risk AI system"
+  ]
+ },
+ {
+  "id": "E47",
+  "query": "Can a market surveillance authority access the source code of a high-risk AI system?",
+  "gold": [
+   "source code"
+  ]
+ },
+ {
+  "id": "E48",
+  "query": "What penalties apply to providers of general-purpose AI models?",
+  "gold": [
+   "3 % of their annual total worldwide turnover"
+  ]
+ },
+ {
+  "id": "E49",
+  "query": "What is the fine for infringing Article 5?",
+  "gold": [
+   "35 000 000"
+  ]
+ },
+ {
+  "id": "E50",
+  "query": "What are the fines for non-compliance with the prohibition of the AI practices referred to in Article 5?",
+  "gold": [
+   "35 000 000"
+  ]
+ },
+ {
+  "id": "E51",
+  "query": "Can a bank use AI to decide who gets a loan?",
+  "gold": [
+   "evaluate the creditworthiness"
+  ]
+ },
+ {
+  "id": "E52",
+  "query": "Is AI used to grade students' exams considered high-risk?",
+  "gold": [
+   "evaluate learning outcomes"
+  ]
+ },
+ {
+  "id": "E53",
+  "query": "Do companies have to label AI-generated images?",
+  "gold": [
+   "detectable as artificially generated"
+  ]
+ },
+ {
+  "id": "E54",
+  "query": "Is AI that decides on asylum applications high-risk?",
+  "gold": [
+   "examination of applications for asylum"
+  ]
+ },
+ {
+  "id": "E55",
+  "query": "Can AI be used to set insurance prices?",
+  "gold": [
+   "pricing in relation to natural persons"
+  ]
+ },
+ {
+  "id": "E56",
+  "query": "Who enforces the AI Act in each country?",
+  "gold": [
+   "at least one notifying authority and at least one market surveillance authority"
+  ]
+ },
+ {
+  "id": "E57",
+  "query": "Can AI be used to prioritise emergency calls?",
+  "gold": [
+   "evaluate and classify emergency calls"
+  ]
+ },
+ {
+  "id": "E58",
+  "query": "Are AI systems in children's toys regulated?",
+  "gold": [
+   "safety of toys"
+  ]
+ },
+ {
+  "id": "E59",
+  "query": "Is AI used by banks to detect money laundering high-risk?",
+  "gold": [
+   "detecting financial fraud"
+  ]
+ },
+ {
+  "id": "E60",
+  "query": "Can police start using real-time facial recognition before receiving authorisation?",
+  "gold": [
+   "within 24 hours"
+  ]
+ },
+ {
+  "id": "E61",
+  "query": "Can a high-risk AI system be used without a conformity assessment?",
+  "gold": [
+   "exceptional reasons of public security"
+  ]
+ },
+ {
+  "id": "E62",
+  "query": "Must AI-generated text always be labelled as AI-generated?",
+  "gold": [
+   "human review or editorial control"
+  ]
+ },
+ {
+  "id": "E63",
+  "query": "Do chatbots used by law enforcement have to disclose that they are AI?",
+  "gold": [
+   "authorised by law to detect, prevent, investigate"
+  ]
+ },
+ {
+  "id": "E64",
+  "query": "Do the rules apply to high-risk AI systems already on the market before August 2026?",
+  "gold": [
+   "significant changes in their designs"
+  ]
+ },
+ {
+  "id": "E65",
+  "query": "Does the AI Act apply to AI developed for scientific research?",
+  "gold": [
+   "sole purpose of scientific research"
+  ]
+ },
+ {
+  "id": "E66",
+  "query": "Must every deployer of a high-risk AI system carry out a fundamental rights impact assessment?",
+  "gold": [
+   "with the exception of high-risk AI systems intended to be used in the area listed in point 2"
+  ]
+ },
+ {
+  "id": "E67",
+  "query": "Do deployers of emotion recognition systems always have to inform the people exposed to them?",
+  "gold": [
+   "permitted by law to detect, prevent or investigate criminal offences"
+  ]
+ },
+ {
+  "id": "E68",
+  "query": "Is verification by two people always required before acting on a biometric identification match?",
+  "gold": [
+   "shall not apply to high-risk AI systems used for the purposes of law enforcement, migration"
+  ]
+ },
+ {
+  "id": "E69",
+  "query": "Do providers of open-source general-purpose AI models have to appoint an authorised representative?",
+  "gold": [
+   "free and open-source licence that allows for the access"
+  ]
+ },
+ {
+  "id": "E70",
+  "query": "What is a deployer not allowed to do based only on a biometric identification match?",
+  "gold": [
+   "separately verified and confirmed by at least two natural persons"
+  ]
+ },
+ {
+  "id": "E71",
+  "query": "Which AI practices are banned in the workplace?",
+  "gold": [
+   "areas of workplace and education institutions"
+  ]
+ },
+ {
+  "id": "E72",
+  "query": "What is not allowed when using real-time biometric identification for law enforcement?",
+  "gold": [
+   "No decision that produces an adverse legal effect"
+  ]
+ },
+ {
+  "id": "E73",
+  "query": "Which AI systems are not allowed to be placed on the EU market?",
+  "gold": [
+   "The following AI practices shall be prohibited"
+  ]
+ }
+]
